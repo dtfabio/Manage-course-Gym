@@ -1,6 +1,6 @@
-# Software for manage course in a GYM
+# Software for manage course in a Gym
 
-Jimmy is a body building instructor and needs a program to manage the courses provided by his gym, the Gold's Gym. Specifically, the program must make the following features available
+Jimmy is a body building instructor and needs a program to manage the courses provided by his gym, the Air's Gym. Specifically, the program must make the following features available
 
 1. Inserting a new course. A course is characterized by a code (alphanumeric), a name, an instructor and a maximum number of participants (between a minimum of 10 and a maximum of 50).
 
