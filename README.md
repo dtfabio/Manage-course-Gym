@@ -1,4 +1,4 @@
-# Software for manage course in a Gym
+# Management course in a Gym
 
 Jimmy is a body building instructor and needs a program to manage the courses provided by his gym, the Air's Gym. Specifically, the program must make the following features available
 
